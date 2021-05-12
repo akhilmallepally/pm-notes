@@ -35,3 +35,7 @@ A project life cycle is a process that involves multiple phases that defines tha
 Agile in it's manifesto states "people over processes", which is contrast to the traditional water fall life cycle. Here is the reference for the principles behind Agile Manifesto which I think acts an essential guide for any individual in an organization ranging from an average employee to the higher officials.
 
 [Principles behind Agile Manifesto](https://agilemanifesto.org/principles.html)
+
+### An illustration of Agile vs Water fall
+
+![](agile-vs-waterfall.jpg)
