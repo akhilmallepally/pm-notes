@@ -29,3 +29,9 @@ The culture is one of the key aspect for any organization as it defines the natu
 ## Understanding project life cycle
 
 A project life cycle is a process that involves multiple phases that defines that defines the work, deliverables and control over the project.
+
+## Why Agile is preferred over traditional water fall life cycle
+
+Agile in it's manifesto states "people over processes", which is contrast to the traditional water fall life cycle. Here is the reference for the principles behind Agile Manifesto which I think acts an essential guide for any individual in an organization ranging from an average employee to the higher officials.
+
+[Principles behind Agile Manifesto](https://agilemanifesto.org/principles.html)
